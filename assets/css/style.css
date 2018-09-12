@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+    color: white;
+}
 button {
     background-color: darkcyan;
     color: white;
@@ -7,4 +11,7 @@ button:hover {
 }
 button:active {
     background-color: turquoise;
+}
+button {
+    margin: 5px;
 }
